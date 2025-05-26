@@ -21,7 +21,7 @@ Friday releases aren’t tradition. They’re **strategy**.
 The concept of the **modern release strategy** traces back to the 1970s, when the **blockbuster model** emerged:
 
 - **Jaws (1975)**: Released on **Friday, June 20** -> considered the first blockbuster.
-- **Star Wars (1977)**: Dropped on **Wednesday, May 25**, but pioneered the **nationwide opening release strategy**, reshaping how studios viewed distribution scale.
+- **Star Wars (1977)**: Dropped on **Wednesday**, May 25**, but pioneered the **nationwide opening release strategy**, reshaping how studios viewed distribution scale.
 
 **BY THE LATE 1980s, FRIDAY BECAME THE INDUSTRY STANDARD**
 
@@ -84,6 +84,10 @@ They're a long-standing, optimized decision built on:
 
 Before data dashboards, studios already understood the metrics.  
 **Entertainment has always been a numbers game, long before we called it analytics.**
+
+
+## Components the study covers
+**Product focus, strategy, data analysis, business rationale, customer behaviour, trend analysis, data metrics, and forward looking insight/approach**
 
 
 
