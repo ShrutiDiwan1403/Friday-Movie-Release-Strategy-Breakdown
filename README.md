@@ -44,7 +44,7 @@ Behind this decision is **data-backed business logic**.
 |--------------------|--------------------|---------|
 | **Audience Availability** | Weekends = most free time | Higher footfall & family attendance |
 | **Marketing Momentum** | Campaigns build up all week | Friday = peak excitement |
-| **Revenue Benchmarks** | Opening weekend = KPI | ~70% of first-week revenue comes from it |
+| **Revenue Benchmarks** | Opening weekend = KPI | 70% of first-week revenue comes from it |
 | **Organic Buzz** | Friday drop → all weekend for word-of-mouth | Boosts second-week retention |
 
 
@@ -55,8 +55,9 @@ Not all movies follow the rule:
 
 - **Wicked (2024)**: Scheduled for a **Wednesday** (November 27) release to capitalize on **Thanksgiving weekend**.
 - **Michael Jackson’s This Is It (2009)**: Scheduled for a **Wednesday** (October 28) release to align with **Halloween weekend** buzz.
+- **Frozen (2013)**: Scheduled for a ** Wednesday** (November 27) release to **Capitalize on Thanksgiving week** in the U.S.
 - **The Amazing Spider-Man (2012)**: Scheduled for a **Tuesday** (July 3) release timed with **July 4th holiday week**.
-- 
+
 
    
 Still, such moves are rare and **strategically calculated exceptions**.
